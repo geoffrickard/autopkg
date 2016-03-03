@@ -29,7 +29,7 @@
 			<key>description</key>
 			<string>The OneDrive for Business Next Generation Sync Client lets you connect and sync files from your OneDrive for Business.</string>
 			<key>developer</key>
-			<string>Microsoft Corporation</key>
+			<string>Microsoft Corporation</string>
 			<key>minimum_os_version</key>
 			<string>10.10.0</string>
 		</dict>
